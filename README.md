@@ -130,6 +130,15 @@ In the [release section][link-release], you'll find the `domains.txt` file.
 
 5. Press OK button and restart the app.
 
+### [V2rayNG](https://github.com/2dust/v2rayNG)
+In the [release section][link-release], you'll find the `v2rayNG.txt` file.
+
+1. Download the file.
+2. Paste file in `settings > Custom rules > DIRECT URL OR IP `.
+3. save. 
+
+
+
 ## Create .dat file manually (Tutorial)
 
 ### 1. Install [golang](https://go.dev/doc/install)
@@ -195,3 +204,4 @@ A Python script is executed by Github Action and generates files that are on the
 [link-pr]: ../../pulls
 [link-issues]: ../../issues
 [link-release]: ../../releases
+### 
