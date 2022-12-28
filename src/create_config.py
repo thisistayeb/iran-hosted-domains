@@ -71,3 +71,8 @@ def switchy_omega(bypass_domains: Iterable[str]):
     config += "\n".join(f"*{domain}" for domain in bypass_domains)
 
     utils.save_to_file(consts.switchy_omega_path, config)
+
+def v2rayNG(bypass_domains: Iterable[str]):
+    config = "domain:google.com,\n"
+    config += "\n".join(f"domain:{domain}," for domain in bypass_domains)
+    utils.save_to_file(consts.v2rayNG_path, config)
