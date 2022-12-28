@@ -135,7 +135,7 @@ In the [release section][link-release], you'll find the `v2rayNG.txt` file.
 
 1. Download the file.
 2. Paste file in `settings > Custom rules > DIRECT URL OR IP `.
-3. save. 
+3. Save. 
 
 
 
