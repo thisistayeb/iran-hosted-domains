@@ -60,3 +60,5 @@ if __name__ == "__main__":
     create_config.shadowrocket(all_domains)
     create_config.clash(all_domains)
     create_config.switchy_omega(other_domains)
+    create_config.v2rayNG(all_domains)
+
